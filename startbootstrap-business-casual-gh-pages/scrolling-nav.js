@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $('#mainNav li a').click(function(e) {
   	
-    alert('Clicked');
+    //alert('Clicked');
     
     e.preventDefault();
   });
