@@ -68,6 +68,10 @@ p {
   line-height: 1.75;
 }
 
+.whiskey-types-heading-content{
+  height: 800px;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.3);
 }
