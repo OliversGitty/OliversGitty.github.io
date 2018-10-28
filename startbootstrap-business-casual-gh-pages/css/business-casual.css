@@ -67,9 +67,12 @@ h6 {
 p {
   line-height: 1.75;
 }
+.Whiskey-Types{
+  height: 800px;
+}
 
 .whiskey-types-heading-content{
-  height: 800px;
+  height: 1000px;
 }
 
 .text-faded {
