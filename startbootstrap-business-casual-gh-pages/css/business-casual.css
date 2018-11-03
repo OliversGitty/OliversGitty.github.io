@@ -22,7 +22,7 @@ body {
 }
 
 .card {
-  width: 80px;
+  width: 200px;
   height: 100%;
   transition: transform 1s;
   transform-style: preserve-3d;
