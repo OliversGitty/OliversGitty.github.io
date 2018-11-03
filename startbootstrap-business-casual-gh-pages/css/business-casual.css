@@ -28,8 +28,6 @@ body {
   transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
-  display: inline-block;
-  justify-content: space-between;
 }
 
 .card.is-flipped {
