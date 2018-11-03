@@ -19,6 +19,8 @@ body {
   border: 1px solid #CCC;
   margin: 40px 0;
   perspective: 600px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .card {
@@ -28,8 +30,6 @@ body {
   transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
-  display: flex;
-  justify-content: space-between;
 }
 
 .card.is-flipped {
